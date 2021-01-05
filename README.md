@@ -1,2 +1,3 @@
 # Chainsaw_Recognition
-identifying an anomaly sound in the forest [Demo]
+This is project since 2019 <br>
+I'll make it better later... 
